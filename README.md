@@ -1,4 +1,6 @@
 # [ INFCON 2022 ]
+![infcon](https://user-images.githubusercontent.com/86578755/188346143-8df4124e-dfce-44a2-80ec-581e8c6d70eb.png)
+
 `Concise Summary` <br/>
 <br/>
 **인프런의 첫 번째 오프라인 콘퍼런스** 
